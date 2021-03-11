@@ -1,8 +1,8 @@
 function main(){
 
-    var myFirstName='Haris';
-    var myLastName='Begić';
-    var myHomeTown='Sarajevo';
+    var myFirstName = 'Haris';
+    var myLastName = 'Begić';
+    var myHomeTown = 'Sarajevo';
     return{
         myFirstName,
         myLastName,

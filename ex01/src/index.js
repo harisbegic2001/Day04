@@ -4,7 +4,7 @@ function main(numOne, numTwo){
         quotient= 'Divide by 0! Cannot divide by zero';
     }
     else {
-        quotient=numOne/numTwo;
+        quotient= numOne / numTwo;
     }
     return quotient;
 }
